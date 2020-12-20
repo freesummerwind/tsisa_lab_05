@@ -3,7 +3,6 @@
 #include <ctime>
 #include <iomanip>
 #include <iostream>
-#include <map>
 #include <vector>
 
 struct Point {
